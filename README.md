@@ -27,9 +27,10 @@
 ---
 ### ДАННЫЕ</br>
 Данные от организаторов были дополнены следующими показателями:</br>
-[Площадь и плотность населения](https://docs.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruFvyjbmqb4vlV7xuR8B4zsYoF9njtcusEgv5WZioIKTa4eq62GnPZ5UDLVGj8DTKPCw3cm6FpmWeiK9BhlqCFFLkuP_3IcYLA2jkFtAa5YxSDlqXtChf16hJB0qFKi8Cnw%3D%3D%3Fsign%3DOFhrGxgo7hspimtwUieVD6-IlpuIUp1zoNd-aGJHWMo%3D&name=Ejegod_02-01_2022.xlsx)    
-[Данные о зарплате](https://showdata.rosstat.gov.ru/report/278170/)    
-[Уровень безработицы](https://showdata.rosstat.gov.ru/report/274316/)<br> 
+Площадь и плотность населения</br> 
+Данные о зарплате</br> 
+Уровень безработицы<br> 
+[Исходные файлы](https://github.com/sn0wy-owl/SberIndex) 
 
 ![01_Данные](https://github.com/user-attachments/assets/7270a3c0-237e-4243-8b3b-330e4bf47026)
 
