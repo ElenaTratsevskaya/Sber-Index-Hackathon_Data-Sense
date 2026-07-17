@@ -68,5 +68,5 @@
 ### Прект выполнен на российской BI-платформе FASTBOARD
 
 ---
-<img align="left" width="300" height="600" src="https://allwebs.ru/images/2026/01/13/f8da04251cd21eae8ca9fb365132e591.jpg"> <img align="left" width="300" height="600" src="https://allwebs.ru/images/2026/01/13/465d47b093e87bd5e61a3977e6ab12eb.jpg"><br>
+<img align="left" width="500" height="300" src="https://allwebs.ru/images/2026/01/13/f8da04251cd21eae8ca9fb365132e591.jpg">   <img align="left" width="500" height="300" src="https://allwebs.ru/images/2026/01/13/465d47b093e87bd5e61a3977e6ab12eb.jpg"><br>
 
